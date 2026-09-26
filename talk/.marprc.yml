@@ -1,0 +1,5 @@
+# Abilita l'HTML inline (card, griglie, SVG). Senza questo, Marp
+# scarta gli attributi style e le slide perdono i riquadri.
+html: true
+allowLocalFiles: true
+themeSet: ./themes

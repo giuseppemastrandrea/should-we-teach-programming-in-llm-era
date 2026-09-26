@@ -1,0 +1,103 @@
+/* Carta — la pagina stampata. Per sala illuminata, schermi grandi, stampa. */
+/* @theme carta */
+@charset "UTF-8";
+@import 'default';
+
+:root {
+  --bg: #FBFAF7; --s: #F1EFE9; --s2: #E6E3DA; --b: #D5D0C4;
+  --t: #161B22; --body: #3D4653; --label: #6A7482; --m: #98A0AC;
+  --a: #9C6500; --a2: #C4870F;
+  --fall: #B0381F; --rise: #2C6E49;
+  --strong: #000000;
+  --shadow: 0 1px 2px rgba(22,27,34,.06);
+}
+
+/* su carta i riquadri hanno bisogno di un bordo, non bastano gli sfondi */
+section > div[style*="background:var(--s)"],
+section div[style*="background:var(--s)"] { border: 1px solid var(--b); box-shadow: var(--shadow); }
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;800&family=Fraunces:opsz,wght@9..144,300;9..144,600;9..144,900&family=JetBrains+Mono:wght@400;700&display=swap');
+section {
+  background: var(--bg);
+  color: var(--t);
+  font-family: 'Archivo', sans-serif;
+  font-weight: 400;
+  padding: 58px 76px 82px;
+  line-height: 1.45;
+  font-size: 26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* le card di sezione e le slide-manifesto restano centrate */
+section.lead, section.card, section.centrata { justify-content: center; }
+
+h1 { font-family: 'Fraunces', Georgia, serif; font-weight: 900; font-size: 2.5em; color: var(--t); letter-spacing: -0.02em; line-height: 1.04; margin: 0 0 10px; }
+h2 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 1.7em; color: var(--t); letter-spacing: -0.015em; line-height: 1.1; margin: 0 0 22px; }
+h3 { font-family: 'JetBrains Mono', monospace; font-weight: 400; font-size: 0.52em; color: var(--a); text-transform: uppercase; letter-spacing: 0.16em; margin: 0 0 16px; }
+strong { color: var(--strong); font-weight: 800; }
+em { color: var(--t); }
+a { color: var(--a); }
+p { margin: 0 0 14px; }
+
+section.lead { display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+section.lead h1 { font-size: 3.1em; }
+
+section.card { justify-content: center; }
+section.card h1 { font-size: 2.9em; }
+section.card h1.long { font-size: 2.1em; }
+
+section::after {
+  font-family: 'JetBrains Mono', monospace; font-size: 0.5em; color: var(--m);
+  right: 76px; bottom: 30px;
+}
+footer {
+  font-family: 'JetBrains Mono', monospace; font-size: 13px; color: var(--label);
+  left: 76px; right: 140px; bottom: 30px;
+  border-top: 1px solid var(--b); padding-top: 11px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+
+.huge { font-family: 'Fraunces', serif; font-weight: 900; font-size: 4.4em; line-height: 0.92; letter-spacing: -0.03em; font-variant-numeric: tabular-nums; }
+.big  { font-family: 'Fraunces', serif; font-weight: 900; font-size: 2.6em; line-height: 1; letter-spacing: -0.025em; font-variant-numeric: tabular-nums; }
+.fall { color: var(--fall); } .rise { color: var(--rise); } .amber { color: var(--a); }
+.dim { color: var(--label); }
+.mono { font-family: 'JetBrains Mono', monospace; }
+
+.method { font-family: 'JetBrains Mono', monospace; font-size: 0.52em; color: var(--body); letter-spacing: 0.02em;
+          border-left: 2px solid var(--a); padding-left: 14px; line-height: 1.6; }
+
+.claim { font-family: 'Fraunces', serif; font-weight: 300; font-style: italic; font-size: 1.55em; line-height: 1.24; }
+.claim b { font-style: normal; font-weight: 600; color: var(--strong); }
+.cite { font-family: 'JetBrains Mono', monospace; font-size: 0.5em; color: var(--label); margin-top: 20px; font-style: normal; }
+
+.ask { font-family: 'Archivo', sans-serif; font-weight: 800; font-size: 1.1em; line-height: 1.25; color: var(--a); }
+
+pre, code { font-family: 'JetBrains Mono', monospace; }
+section pre { background: var(--s); border: 1px solid var(--b); border-radius: 4px; padding: 20px 24px; font-size: 0.62em; line-height: 1.5; }
+section pre code { color: var(--t); background: none; }
+section code:not(pre code) { background: var(--s2); color: var(--t); padding: 1px 6px; border-radius: 3px; font-size: 0.86em; }
+/* sintassi — tarata sul fondo chiaro: tinte sature, non pastello */
+.hljs-string, .hljs-meta .hljs-string { color: #1F6B45 !important; }
+.hljs-comment { color: #77828F !important; font-style: italic; }
+.hljs-keyword, .hljs-built_in { color: #9C3A00 !important; }
+.hljs-title, .hljs-title.function_ { color: #14568C !important; }
+.hljs-number { color: #8A4310 !important; }
+.hljs-params, .hljs-variable { color: var(--t) !important; }
+
+.method b { color: var(--strong); }
+.method b.rise { color: var(--rise); }
+
+/* SVG: i colori passano da classi, così seguono il tema */
+.s-axis   { stroke: var(--b); }
+.s-rule   { stroke: var(--t); }
+.s-fall   { stroke: var(--fall); }
+.s-rise   { stroke: var(--rise); }
+.s-accent { stroke: var(--a); }
+.s-muted  { stroke: var(--m); }
+.f-fall   { fill: var(--fall); }
+.f-rise   { fill: var(--rise); }
+.f-accent { fill: var(--a); }
+.f-text   { fill: var(--t); }
+.f-label  { fill: var(--label); }
+.f-muted  { fill: var(--m); }
