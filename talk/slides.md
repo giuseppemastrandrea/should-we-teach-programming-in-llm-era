@@ -106,7 +106,7 @@ Chiudi con: "Non ho una risposta comoda. Ho dei dati."
   <div class="fade r5" style="display:flex; align-items:baseline; gap:26px; padding:13px 0;">
     <div class="mono amber" style="flex:0 0 60px; font-size:0.72em;">05</div>
     <div style="flex:0 0 330px;"><strong>Nuove idee per insegnare</strong></div>
-    <div style="flex:1; color:var(--body); font-size:0.88em;">cinque esercizi da provare in sala</div>
+    <div style="flex:1; color:var(--body); font-size:0.88em;">cinque idee per insegnare il coding</div>
   </div>
 </div>
 
@@ -367,7 +367,7 @@ Tutte le professioni americane messe in fila per <strong>quanto del loro lavoro 
 Tutte le professioni americane messe in fila per <strong>quanto del loro lavoro un'AI può fare</strong>.<span class="amber">*</span>
 </div>
 
-<div style="font-size:0.6em;"><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; border-bottom:1px solid var(--b); opacity:0.29;"><div class="mono" style="flex:0 0 40px; color:var(--rise);">Q1</div><div class="mono" style="flex:0 0 118px; color:var(--rise); font-size:0.78em;">MENO ESPOSTE</div><div style="flex:1; color:var(--body); line-height:1.45;">Movimentazione merci a mano, addetti alle pulizie, carrellisti, giardinaggio, confezionamento, assistenti domiciliari, addetti alle pulizie industriali</div></div><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; border-bottom:1px solid var(--b); opacity:0.4;"><div class="mono" style="flex:0 0 40px; color:var(--label);">Q2</div><div style="flex:0 0 118px;"></div><div style="flex:1; color:var(--body); line-height:1.45;">Manutentori, assistenti infermieristici, aiutanti di produzione, magazzinieri, saldatori, macchinisti utensili, camerieri</div></div><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; border-bottom:1px solid var(--b); opacity:0.51;"><div class="mono" style="flex:0 0 40px; color:var(--label);">Q3</div><div style="flex:0 0 118px;"></div><div style="flex:1; color:var(--body); line-height:1.45;">Tassisti e autisti, infermieri, camionisti, assistenti medici, addetti alle vendite, responsabili servizi sociali, programmatori di macchine CNC, capi servizi di pulizia, infermieri professionali</div></div><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; border-bottom:1px solid var(--b); opacity:0.62;"><div class="mono" style="flex:0 0 40px; color:var(--label);">Q4</div><div style="flex:0 0 118px;"></div><div style="flex:1; color:var(--body); line-height:1.45;">Responsabili vendite, direttori generali e operativi, direttori sanitari, capi reparto produzione, direttori di produzione, capi ufficio amministrativo, marketing manager</div></div><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; opacity:1.0;"><div class="mono" style="flex:0 0 40px; color:var(--fall);">Q5</div><div class="mono" style="flex:0 0 118px; color:var(--fall); font-size:0.78em;">PIÙ ESPOSTE</div><div style="flex:1; color:var(--body); line-height:1.45;">Amministratori delegati, addetti al servizio clienti, contabili, <strong>sviluppatori software di sistema</strong>, responsabili sistemi informativi, HR</div></div></div>
+<div style="font-size:0.6em;"><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; border-bottom:1px solid var(--b); opacity:0.29;"><div class="mono" style="flex:0 0 40px; color:var(--rise);">Q1</div><div class="mono" style="flex:0 0 118px; color:var(--rise); font-size:0.78em;">MENO ESPOSTE</div><div style="flex:1; color:var(--body); line-height:1.45;">Movimentazione merci a mano, addetti alle pulizie, carrellisti, giardinaggio, confezionamento, assistenti domiciliari, addetti alle pulizie industriali</div></div><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; border-bottom:1px solid var(--b); opacity:0.4;"><div class="mono" style="flex:0 0 40px; color:var(--label);">Q2</div><div style="flex:0 0 118px;"></div><div style="flex:1; color:var(--body); line-height:1.45;">Manutentori, assistenti infermieristici, aiutanti di produzione, magazzinieri, saldatori, macchinisti utensili, camerieri</div></div><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; border-bottom:1px solid var(--b); opacity:0.51;"><div class="mono" style="flex:0 0 40px; color:var(--label);">Q3</div><div style="flex:0 0 118px;"></div><div style="flex:1; color:var(--body); line-height:1.45;">Tassisti e autisti, infermieri, camionisti, assistenti medici, addetti alle vendite, responsabili servizi sociali, programmatori di macchine CNC, capi servizi di pulizia, infermieri professionali</div></div><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; border-bottom:1px solid var(--b); opacity:0.62;"><div class="mono" style="flex:0 0 40px; color:var(--label);">Q4</div><div style="flex:0 0 118px;"></div><div style="flex:1; color:var(--body); line-height:1.45;">Responsabili vendite, direttori generali e operativi, direttori sanitari, capi reparto produzione, direttori di produzione, capi ufficio amministrativo, marketing manager</div></div><div style="display:flex; align-items:flex-start; gap:20px; padding:9px 0; opacity:1.0;"><div class="mono" style="flex:0 0 40px; color:var(--fall);">Q5</div><div class="mono" style="flex:0 0 118px; color:var(--fall); font-size:0.78em;">PIÙ ESPOSTE</div><div style="flex:1; color:var(--body); line-height:1.45;">Amministratori delegati, addetti al servizio clienti, contabili, <strong>sviluppatori</strong>, responsabili sistemi informativi, HR</div></div></div>
 
 <div class="mono dim" style="font-size:0.42em; margin-top:18px;"><span class="amber">*</span> Punteggio di esposizione da Eloundou et al. 2024 (<i>Science</i>), calcolato con GPT-4 sulle mansioni O*NET.</div>
 
@@ -465,7 +465,7 @@ NOTA TECNICA: il video parte da solo SOLO nell'anteprima e nell'export HTML. Nel
 
 <div style="display:flex; gap:26px; margin-top:34px; font-size:0.7em; color:var(--body);">
   <div style="flex:1;">Divergenze già <strong>prima di ChatGPT</strong>, attorno al COVID</div>
-  <div style="flex:1;">L'effetto <strong>si attenua</strong> controllando per il titolo di studio</div>
+  <div style="flex:1;">A parità di <strong>titolo di studio</strong>, il divario fra quintili si attenua: le assunzioni sono più uniformi</div>
   <div style="flex:1;">Il campione ADP è <strong>più marcato</strong> dei benchmark nazionali</div>
 </div>
 
@@ -557,49 +557,6 @@ La formulazione giusta è più forte: «e non è lo stesso dato guardato due vol
 E la chiusura, lenta, perché è il ponte verso tutto il resto del talk: «la stessa tecnologia, usata in due modi diversi, produce disoccupazione o produttività. E come la usi si può insegnare.»
 
 TOLTO DA QUESTA SLIDE il blocco conoscenza codificata / tacita: è un'interpretazione, non un risultato del paper, e sta meglio accanto a Naur nella Parte 3.
--->
-
----
-
-<!-- _footer: 'Canaries in the Coal Mine?, sezione «Excluding Technology Occupations» - Tavola C.1' -->
-
-# «Ma è solo il tech dopo il COVID»
-
-<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 26px; max-width:74ch;">
-Dal 2022 le aziende informatiche hanno frenato le assunzioni dopo la corsa della pandemia. Se il divario fosse quello, togliendo il tech dovrebbe sparire. Gli autori l'hanno tolto.
-</div>
-
-<div>
-  <div style="display:flex; align-items:center; gap:26px; padding:15px 0; border-bottom:1px solid var(--b);">
-    <div class="big" style="flex:0 0 150px; text-align:right; font-size:2em;">19%</div>
-    <div style="font-size:0.74em; color:var(--body);">in meno, <strong>campione completo</strong></div>
-  </div>
-  <div style="display:flex; align-items:center; gap:26px; padding:15px 0; border-bottom:1px solid var(--b);">
-    <div class="big" style="flex:0 0 150px; text-align:right; font-size:2em;">19%</div>
-    <div style="font-size:0.74em; color:var(--body);">in meno, togliendo tutte le <strong>professioni informatiche</strong></div>
-  </div>
-  <div style="display:flex; align-items:center; gap:26px; padding:15px 0;">
-    <div class="big" style="flex:0 0 150px; text-align:right; font-size:2em;">17%</div>
-    <div style="font-size:0.74em; color:var(--body);">in meno, togliendo anche le <strong>aziende</strong> informatiche</div>
-  </div>
-</div>
-
-<div style="margin-top:24px; font-size:0.76em; color:var(--body);">Il divario resta. Conclusione degli autori, testuale: <strong>«not specific to technology roles»</strong>.</div>
-
-<!--
-«La prima obiezione che arriva sempre: ma è il tech che si è sgonfiato dopo le assunzioni folli del COVID, non è l'AI.»
-
-«Gli autori ci hanno pensato prima di noi. C'è una sezione del paper intitolata Excluding Technology Occupations. Rifanno il conto tre volte. Tutti i lavori: diciannove per cento. Togliendo tutte le professioni informatiche: ancora diciannove. Togliendo pure le aziende informatiche, quindi anche il contabile che lavora in una software house: diciassette.»
-
-«Si muove di due punti. E la loro conclusione è testuale: non è specifico dei ruoli tecnologici.»
-
-I NUMERI ESATTI, se te li chiedono: sono coefficienti di regressione, −0,193 / −0,190 / −0,166, errori standard attorno a 0,033, significativi all'1%. Stesso confronto della slide del divario: quintile 5 contro quintile 1, ventidue-venticinquenni, novembre 2022 - giugno 2026.
-
-COSA VIENE TOLTO: le professioni informatiche sono i codici SOC che iniziano per 15-1; le aziende informatiche sono i codici NAICS 51 e 5415.
-
-UN SECONDO BERSAGLIO, se serve: la stessa verifica scarta anche la spiegazione fiscale. Nel 2022 il §174 dell'Internal Revenue Code ha tolto la deducibilità immediata dei costi di ricerca e sviluppo, software compreso, e avrebbe potuto frenare da solo le assunzioni tech.
-
-DETTAGLIO CHE RAFFORZA: il quarto quintile sta attorno al 15-16% in meno, il secondo e il terzo sono a zero. L'effetto si concentra dove l'esposizione è alta, non è un gradiente piatto.
 -->
 
 ---
@@ -909,7 +866,7 @@ Poi il pezzo che vale la slide, lento: "Vi ho dato una correlazione con un mecca
 
 <div style="display:flex; gap:44px; align-items:flex-start; margin-top:14px;">
   <div style="flex:1;">
-    <div style="font-size:0.8em; line-height:1.5;"><strong>36 milioni</strong> di nuovi sviluppatori su GitHub in un anno. Quasi l'<strong>80%</strong> usa Copilot <strong>entro la prima settimana</strong>.</div>
+    <div style="font-size:0.8em; line-height:1.5;"><strong>36 milioni</strong> di nuovi account GitHub in un anno. Quasi l'<strong>80%</strong> apre Copilot <strong>entro la prima settimana</strong>.</div>
     <div style="font-size:0.8em; line-height:1.5; margin-top:18px;">Più sviluppatori <strong>diffidano</strong> dell'accuratezza degli strumenti AI di quanti se ne <strong>fidano</strong>. Fra gli <strong>esperti</strong> lo scetticismo è più netto.</div>
     <div style="margin-top:30px; padding-top:24px; border-top:1px solid var(--b);">
       <div style="font-family:'Fraunces',serif; font-weight:600; font-size:1.2em; line-height:1.22; color:var(--a);">
@@ -959,6 +916,7 @@ La conclusione è L'ATTERRAGGIO DELLA PARTE, e consegna alla Parte 3: se il coll
       COME È MISURATO<br>
       <b>80 task di programmazione</b> in <b>4 linguaggi</b>, dati a <b>100 modelli</b>.
     </div>
+    <div class="mono" style="font-size:0.46em; letter-spacing:0.1em; color:var(--m); margin:4px 0 10px;">% DI CODICE NON SICURO</div>
     <div style="display:flex; gap:0; margin-bottom:18px;">
       <div style="flex:1; padding:6px 0 6px 18px; border-left:1px solid var(--b);"><div class="dim mono" style="font-size:0.46em;">JAVA</div><div class="big fall" style="font-size:1.5em;">72%</div></div>
       <div style="flex:1; padding:6px 0 6px 18px; border-left:1px solid var(--b);"><div class="dim mono" style="font-size:0.46em;">C#</div><div class="big" style="font-size:1.5em;">45%</div></div>
@@ -966,7 +924,7 @@ La conclusione è L'ATTERRAGGIO DELLA PARTE, e consegna alla Parte 3: se il coll
       <div style="flex:1; padding:6px 0 6px 18px; border-left:1px solid var(--b);"><div class="dim mono" style="font-size:0.46em;">PYTHON</div><div class="big" style="font-size:1.5em;">38%</div></div>
     </div>
     <div style="font-size:0.7em;"><strong>XSS:</strong> i modelli falliscono nell'<strong class="fall">86%</strong> dei casi rilevanti.</div>
-    <div class="amber" style="font-size:0.86em; font-weight:800; margin-top:12px;">Prestazioni analoghe al report del 2025.</div>
+    <div class="amber" style="font-size:0.86em; font-weight:800; margin-top:12px;">Risultati analoghi al report del 2025.</div>
   </div>
 </div>
 
@@ -1345,7 +1303,7 @@ Sul punto 2, da dire o crea confusione: la slide prima dice "creare è gratis" e
 # Qualcuno l'ha già fatto
 
 <div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 24px; max-width:82ch;">
-Corso introduttivo di programmazione <strong>ricostruito attorno a Copilot</strong>, con <strong>550 studenti</strong>. Queste sono le sei competenze su cui è impostato.
+Corso <strong>CS1</strong> ricostruito attorno a Copilot, con <strong>550 studenti</strong>. Queste sono le sei competenze su cui è impostato.
 </div>
 
 <div style="display:flex; gap:0;">
@@ -1361,9 +1319,12 @@ Corso introduttivo di programmazione <strong>ricostruito attorno a Copilot</stro
   </div>
 </div>
 
-<div class="fade r4" style="display:flex; gap:44px; margin-top:32px; padding-top:22px; border-top:1px solid var(--b); font-size:0.68em; line-height:1.5; color:var(--body);">
-  <div style="flex:1;">Il <strong>74%</strong> degli studenti ha trovato i progetti molto utili.</div>
-  <div style="flex:1;"><strong>52%</strong> donne, <strong>66%</strong> non informatici: quando il pavimento si alza, cambia anche chi entra.</div>
+<div class="fade r4" style="margin-top:32px; padding-top:22px; border-top:1px solid var(--b);">
+  <div class="mono" style="font-size:0.46em; letter-spacing:0.1em; color:var(--m); margin-bottom:10px;">ALTRE INFO</div>
+  <div style="display:flex; gap:44px; font-size:0.68em; line-height:1.5; color:var(--body);">
+    <div style="flex:1;">Il <strong>74%</strong> degli studenti ha trovato i progetti molto utili.</div>
+    <div style="flex:1;">La classe era per il <strong>52% donne</strong> e per il <strong>66% non informatici</strong>.</div>
+  </div>
 </div>
 
 <!--
@@ -1373,7 +1334,7 @@ Corso introduttivo di programmazione <strong>ricostruito attorno a Copilot</stro
 
 Lascia che le confrontino con la slide prima. "Sono quasi le stesse. Non perché le abbia copiate: perché se parti dal problema arrivi lì."
 
-IL DATO CHE SORPRENDE E VA DETTO PIANO: cinquantadue per cento donne, sessantasei per cento non informatici. "Quando il pavimento si alza, non cambia solo quanto si produce. Cambia chi entra."
+SUL 52% DI DONNE, ATTENZIONE: non attribuirlo a Copilot. Non c'è confronto prima/dopo, ed è un corso aperto ai non informatici - quelle classi hanno da sempre una composizione più equilibrata. Il dato dice una cosa vera comunque: quelle sei competenze sono state insegnate a una platea larga, non a una selezione di smanettoni.
 
 Se qualcuno obietta che è un corso introduttivo e non forma ingegneri: giusto, e loro non sostengono il contrario. Il punto è che le sei competenze sono insegnabili e sono state insegnate.
 -->
@@ -1393,203 +1354,39 @@ Se qualcuno obietta che è un corso introduttivo e non forma ingegneri: giusto, 
 
 <!-- _footer: 'GitHub Octoverse 2025 - Veracode - Stack Overflow Developer Survey 2025' -->
 
-<div style="display:flex; align-items:center; height:420px;">
-  <div style="font-family:'Fraunces',serif; font-weight:600; font-size:1.55em; line-height:1.22; color:var(--t); max-width:46ch;">
-    Stiamo formando una generazione che si fida di più proprio dello strumento di cui gli <span class="amber">esperti</span> si fidano di <span class="amber">meno</span>, senza darle gli strumenti per <span class="amber">verificarlo</span>.
-  </div>
+# La sensazione
+
+<div style="font-family:'Fraunces',serif; font-weight:600; font-size:1.42em; line-height:1.24; color:var(--t); max-width:48ch; margin-top:28px;">
+  Stiamo formando una generazione che si fida di più proprio dell'AI di cui gli <span class="amber">esperti</span> si fidano di <span class="amber">meno</span>, senza che nessuno le insegni a <span class="amber">verificarne le risposte</span>.
 </div>
+
 
 <!--
 È il problema che la parte va a risolvere, non ancora la risposta. Dilla lentamente.
 
-Poi: "'Senza darle gli strumenti per verificarlo' - quella è la parte che dipende da noi. E la domanda che si fa di solito, AI in aula sì o no, non ci arriva nemmeno vicino."
+Poi: "'Senza che nessuno le insegni a verificarne le risposte' - quella è la parte che dipende da noi. E la domanda che si fa di solito, AI in aula sì o no, non ci arriva nemmeno vicino."
 
-I tre fatti su cui poggia - 36 milioni di nuovi sviluppatori, metà del codice che non passa, gli esperti che diffidano - sono già in sala da venti minuti. Qui non li ripeti, li usi.
--->
-
----
-<!-- _footer: 'Strömberg, Lei e Wu, The Generative AI Learning Penalty, giugno 2026 - 26.811 studenti, 30 mesi' -->
-
-# The Generative AI Learning Penalty
-
-<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 22px; max-width:84ch;">
-<strong>26.811 studenti cinesi</strong>, classi dalla settima alla dodicesima, seguiti per <strong>30 mesi</strong>: voti e tempi dei compiti, esami mensili a libro chiuso, esami di ammissione. Nove materie.
-</div>
-
-<div style="display:flex; gap:0;">
-  <div class="fade r1" style="flex:1; padding-right:40px; border-right:1px solid var(--b);">
-    <div class="mono" style="font-size:0.48em; letter-spacing:0.1em; color:var(--rise); margin-bottom:14px;">NEI COMPITI A CASA</div>
-    <div style="font-size:0.78em; line-height:1.8; color:var(--body);">
-      Voti <strong class="rise">+18%</strong><br>
-      Tempo per farli <strong class="rise">−30%</strong>
-    </div>
-  </div>
-  <div class="fade r3" style="flex:1; padding-left:44px;">
-    <div class="mono" style="font-size:0.48em; letter-spacing:0.1em; color:var(--fall); margin-bottom:14px;">AGLI ESAMI</div>
-    <div style="font-size:0.78em; line-height:1.8; color:var(--body);">
-      Esami mensili <strong class="fall">−20%</strong> <span class="dim" style="font-size:0.82em;">entro sei mesi</span><br>
-      Esami di ammissione <strong class="fall">−18% e −24%</strong> <span class="dim" style="font-size:0.82em;">dopo due anni</span>
-    </div>
-  </div>
-</div>
-
-<div class="fade r5" style="margin-top:28px; padding-top:20px; border-top:1px solid var(--b); font-size:0.74em; line-height:1.55; color:var(--body); max-width:90ch;">
-La perdita è concentrata nell'<strong>80% di studenti che delegano il compito</strong>: tempi bassissimi e voti alti. Chi usa l'AI <strong>mantenendo gli stessi tempi</strong> di chi non la usa perde quasi nulla.
-</div>
-
-<!--
-"Questo è il dato più grosso che ho da mostrarvi sulla scuola. Ventiseimilaottocento studenti cinesi, dalla seconda media alla quinta superiore, seguiti per trenta mesi. Non un sondaggio: voti veri, tempi veri, esami a libro chiuso, esami di ammissione."
-
-"Nei compiti a casa va tutto benissimo: voti su del diciotto per cento, tempo giù del trenta."
-
-Pausa. "Agli esami, dove l'AI non ce l'hanno, i voti mensili scendono del venti per cento entro sei mesi. E sugli esami di ammissione, quelli che contano davvero, il calo arriva al diciotto e al ventiquattro per cento - ma si vede tutto solo dopo due anni."
-
-IL PUNTO, lento: "e adesso la parte che conta. La perdita non è distribuita: sta quasi tutta nell'ottanta per cento di studenti che DELEGANO, riconoscibili perché consegnano in pochissimo tempo con voti alti. Chi usa l'AI ma ci mette lo stesso tempo di prima non perde quasi niente."
-
-"Non è lo strumento. È cosa ci fai."
-
-Metodo, se te lo chiedono: difference-in-differences su adozione scaglionata. Le perdite sono più grandi nelle materie umanistiche, poi STEM, poi lingue; e più grandi per gli studenti più giovani, per quelli più bravi e per i maschi.
+I tre fatti su cui poggia - 36 milioni di nuovi account GitHub, metà del codice che non passa, gli esperti che diffidano - sono già in sala da venti minuti. Qui non li ripeti, li usi.
 -->
 
 ---
 
+<!-- _footer: 'GitHub Octoverse 2025 - Veracode - Stack Overflow Developer Survey 2025' -->
 
-<!-- _footer: 'Bastani et al., PNAS 2025' -->
+# La sensazione
 
-# AI without guardrails can harm learning
-
-<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 20px; max-width:80ch;">
-Circa <strong>mille studenti di matematica delle superiori</strong>, in Turchia. Stesso modello, due confezioni diverse, più un gruppo di controllo <strong>senza AI</strong>. Prima si esercitano, poi fanno l'esame senza.
+<div style="font-family:'Fraunces',serif; font-weight:600; font-size:1.42em; line-height:1.24; color:var(--t); max-width:48ch; margin-top:28px;">
+  Stiamo formando una generazione che si fida di più proprio dell'AI di cui gli <span class="amber">esperti</span> si fidano di <span class="amber">meno</span>, senza che nessuno le insegni a <span class="amber">verificarne le risposte</span>.
 </div>
 
-<div style="margin-top:20px;">
-  <div style="display:flex; align-items:center; padding:12px 0; border-bottom:1px solid var(--b); font-size:0.56em;" class="mono dim">
-    <div style="flex:2;"></div><div style="flex:1; text-align:center;">DURANTE LA PRATICA</div><div style="flex:1.2; text-align:center;">ALL'ESAME SENZA AI</div>
-  </div>
-  <div style="display:flex; align-items:center; padding:24px 0; border-bottom:1px solid var(--b);">
-    <div style="flex:2; font-size:0.76em;"><strong>GPT Base</strong><br><span class="dim" style="font-size:0.82em;">ChatGPT normale</span></div>
-    <div style="flex:1; text-align:center;" class="rise big">+48%</div>
-    <div style="flex:1.2; text-align:center;"><span class="big fall">−17%</span><br><span class="dim" style="font-size:0.56em;"><strong>sotto</strong> chi non l'ha mai avuta</span></div>
-  </div>
-  <div style="display:flex; align-items:center; padding:24px 0;">
-    <div style="flex:2; font-size:0.76em;"><strong>GPT Tutor</strong><br><span class="dim" style="font-size:0.82em;">stesso modello, dà hint non risposte</span></div>
-    <div style="flex:1; text-align:center;" class="rise big">+127%</div>
-    <div style="flex:1.2; text-align:center;"><span style="font-size:0.9em; font-weight:800;">nessun danno</span></div>
-  </div>
+<div class="fade fade1" style="text-align:right; font-size:0.92em; color:var(--a); margin-top:40px; font-family:'Fraunces',serif; font-weight:600;">
+  È solo una sensazione?
 </div>
 
 <!--
-"Stesso modello. Stesso identico GPT-4. Cambia solo come è stato IMPACCHETTATO. Con i guardrail raddoppi l'apprendimento; senza, chi lo usa finisce SOTTO chi non l'ha mai avuto."
+Dopo la domanda, pausa. "Questa è una sensazione, e le sensazioni in questo talk non valgono niente. Quindi adesso guardiamo cosa dice la ricerca."
 
-"Ecco perché 'AI sì o no' è la domanda sbagliata. La domanda è: AI PROGETTATA COME. E quella è una decisione didattica, non tecnologica."
--->
-
----
-<!-- _footer: "Anthropic, How AI assistance impacts the formation of coding skills, gennaio 2026" -->
-
-# Imparare una libreria nuova
-
-<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 26px; max-width:80ch;">
-<strong>52 sviluppatori</strong>, per lo più junior. Stesso compito: imparare una libreria che non conoscono e implementare due funzionalità. Metà <strong>con l'AI</strong>, metà <strong>a mano</strong>. Alla fine, un quiz sui concetti appena usati.
-</div>
-
-<div style="display:flex; align-items:center; gap:0;">
-  <div class="fade r1" style="flex:1; padding-right:40px; border-right:1px solid var(--b); text-align:center;">
-    <div class="huge fall" style="font-size:3.4em;">50%</div>
-    <div class="mono" style="font-size:0.5em; margin-top:10px; letter-spacing:0.1em; color:var(--fall);">AL QUIZ, CHI HA USATO L'AI</div>
-  </div>
-  <div class="fade r3" style="flex:1; padding-left:44px; text-align:center;">
-    <div class="huge rise" style="font-size:3.4em;">67%</div>
-    <div class="mono" style="font-size:0.5em; margin-top:10px; letter-spacing:0.1em; color:var(--rise);">AL QUIZ, CHI HA FATTO A MANO</div>
-  </div>
-</div>
-
-<div class="fade r5" style="display:flex; gap:44px; margin-top:34px; padding-top:22px; border-top:1px solid var(--b); font-size:0.66em; line-height:1.5; color:var(--body);">
-  <div style="flex:1;"><strong>17 punti</strong> di differenza, quasi due voti. Il divario più grande è <strong>sulle domande di debugging</strong>.</div>
-  <div style="flex:1;">Sulla <strong>velocità</strong>, due minuti in meno con l'AI: differenza <strong>non significativa</strong>.</div>
-</div>
-
-<!--
-"Cinquantadue sviluppatori, per lo più junior. Gli danno una libreria che non conoscono - Trio, per la programmazione asincrona - e due funzionalità da implementare. Metà la fanno con l'assistente, metà a mano. Poi un quiz sui concetti che hanno appena usato."
-
-Pausa sui due numeri. "Hanno risparmiato due minuti e hanno capito due voti in meno."
-
-"E lo pubblica l'azienda che vende l'agente di coding."
-
-ATTENZIONE: non dire "diciassette per cento in meno". I punteggi grezzi sono 50 e 67: sono 17 PUNTI PERCENTUALI. Di' "diciassette punti" o "cinquanta contro sessantasette".
-
-Se ti chiedono i numeri: Cohen's d = 0,738, p = 0,01.
--->
-
----
-
-
-<!-- _footer: "Anthropic RCT, gennaio 2026 - pattern d'uso correlati al punteggio del quiz" -->
-
-# Insight
-
-<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 18px; max-width:80ch;">
-Gli stessi 52 sviluppatori, raggruppati per <strong>come</strong> hanno usato l'AI. Sei modi ricorrenti, due esiti opposti al quiz.
-</div>
-
-<div style="display:flex; gap:0; margin-top:12px;">
-  <div style="flex:1; padding:24px 28px; padding-left:0; border-right:1px solid var(--b);">
-    <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:18px;">
-      <span class="mono" style="font-size:0.5em; letter-spacing:0.08em; color:var(--fall);">SOTTO IL</span>
-      <span class="big fall" style="font-size:1.4em;">40%</span>
-    </div>
-    <div style="font-size:0.72em; line-height:1.35;">
-      <div style="margin-bottom:14px;"><strong>Delega totale</strong><br><span class="dim" style="font-size:0.88em;">«fammelo tu»</span></div>
-      <div style="margin-bottom:14px;"><strong>Reliance progressiva</strong><br><span class="dim" style="font-size:0.88em;">inizi chiedendo, finisci delegando</span></div>
-      <div><strong>Debug iterativo</strong><br><span class="dim" style="font-size:0.88em;">«aggiusta» invece di «spiega»</span></div>
-    </div>
-  </div>
-  <div style="flex:1; padding:24px 28px; padding-left:40px; padding-right:0;">
-    <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:18px;">
-      <span class="mono" style="font-size:0.5em; letter-spacing:0.08em; color:var(--rise);">SOPRA IL</span>
-      <span class="big rise" style="font-size:1.4em;">65%</span>
-    </div>
-    <div style="font-size:0.72em; line-height:1.35;">
-      <div style="margin-bottom:14px;"><strong>Genera, poi chiedi spiegazioni</strong></div>
-      <div style="margin-bottom:14px;"><strong>Codice e spiegazione insieme</strong></div>
-      <div><strong>Conceptual inquiry</strong><br><span class="dim" style="font-size:0.88em;">solo domande concettuali, errori risolti da solo</span></div>
-    </div>
-  </div>
-</div>
-
-<div class="ask" style="text-align:center; margin-top:22px; font-size:0.88em;">
-  Il gruppo «conceptual inquiry» era anche il secondo più veloce in assoluto.
-</div>
-
-<!--
-"Questo distrugge l'alibi del trade-off. Non è 'o vai veloce o impari'. Chi usa l'AI per CAPIRE va veloce E impara. Chi la usa per DELEGARE va uguale e non impara niente."
-
-"E allora la domanda non è più 'AI sì o no'. È: quale di queste sei colonne stiamo insegnando? Perché se non insegniamo niente, il default è la colonna rossa."
-
-MOMENTO INTERATTIVO: "Alzate la mano: in quale di queste sei vi riconoscete stamattina?"
--->
-
----
-<!-- _footer: '' -->
-
-<!-- _class: centrata -->
-
-<div style="display:flex; align-items:center; justify-content:center; height:430px; text-align:center;">
-  <h1 class="fade fade1" style="font-size:3.1em; line-height:1.06; margin:0;">L'<span class="fall">illusione</span> della competenza</h1>
-</div>
-
-<!--
-Non dire niente per due secondi. La frase deve stare da sola.
-
-"Questa cosa ha un nome, e ve l'ho già mostrata tre volte senza chiamarla così."
-
-"Nello studio cinese: il voto sui compiti dice che hai imparato, l'esame dice di no. Nel PNAS: durante la pratica vai meglio di tutti, all'esame finisci sotto chi non l'ha mai avuta. Nell'RCT di Anthropic: risparmi due minuti e capisci due voti in meno."
-
-"Il segnale che guardiamo tutti - il lavoro consegnato - dice il contrario di quello che è successo davvero."
-
-LA FORMULA È DI PRATHER e colleghi, ICER 2024: studio qualitativo su 21 principianti osservati con eye-tracking. Chi arrancava finiva convinto di aver fatto meglio di quanto avesse fatto, con «dissonanza cognitiva sulla propria capacità di risolvere problemi».
-
-QUI ABBASSA LA VOCE, è la parte personale: "io lavoro con adulti in riqualificazione. Gente di quarant'anni che cambia vita. Quelli sono, quasi per definizione, il gruppo a bassa autoefficacia. Sono esattamente quelli che l'AI SEMBRA aiutare e sta lasciando indietro."
+Consegna alla parte successiva: quattro studi.
 -->
 
 ---
@@ -1643,6 +1440,196 @@ E il corollario: l'informazione teorica sul rischio non cambia i comportamenti. 
 DICHIARA TU IL LIMITE: campione di convenienza, non rappresentativo, autodichiarato e compilato in classe. Lo scrive il report stesso.
 
 Altri numeri se servono: l'84% la usa per studiare, metà in modo sistematico. Il 44% teme di diventare dipendente e "pensare di meno con la propria testa". Il 53% l'ha usata almeno una volta come confidente.
+-->
+
+---
+
+<!-- _footer: 'Strömberg, Lei e Wu, The Generative AI Learning Penalty, giugno 2026 - 26.811 studenti, 30 mesi' -->
+
+# The Generative AI Learning Penalty
+
+<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 22px; max-width:84ch;">
+<strong>26.811 studenti cinesi</strong>, classi dalla settima alla dodicesima, seguiti per <strong>30 mesi</strong>: voti e tempi dei compiti, verifiche strutturate mensili, esami di ammissione. Nove materie.
+</div>
+
+<div style="display:flex; gap:0;">
+  <div class="fade r1" style="flex:1; padding-right:40px; border-right:1px solid var(--b);">
+    <div class="mono" style="font-size:0.48em; letter-spacing:0.1em; color:var(--rise); margin-bottom:14px;">NEI COMPITI A CASA</div>
+    <div style="font-size:0.78em; line-height:1.8; color:var(--body);">
+      Voti <strong class="rise">+18%</strong><br>
+      Tempo per farli <strong class="rise">−30%</strong>
+    </div>
+  </div>
+  <div class="fade r3" style="flex:1; padding-left:44px;">
+    <div class="mono" style="font-size:0.48em; letter-spacing:0.1em; color:var(--fall); margin-bottom:14px;">AGLI ESAMI</div>
+    <div style="font-size:0.78em; line-height:1.8; color:var(--body);">
+      Verifiche strutturate <strong class="fall">−20%</strong> <span class="dim" style="font-size:0.82em;">entro sei mesi</span><br>
+      Esami di ammissione <strong class="fall">−18% e −24%</strong> <span class="dim" style="font-size:0.82em;">dopo due anni</span>
+    </div>
+  </div>
+</div>
+
+<div class="fade r5" style="margin-top:24px; padding-top:18px; border-top:1px solid var(--b); font-size:0.7em; line-height:1.55; color:var(--body); max-width:92ch;">
+La perdita è concentrata nell'<strong>80% di studenti che delegano il compito</strong>: tempi bassissimi e voti alti. Chi usa l'AI <strong>mantenendo gli stessi tempi</strong> di chi non la usa perde quasi nulla.
+</div>
+
+<div class="fade r6" style="margin-top:16px; font-size:0.62em; line-height:1.55; color:var(--body);">
+<strong>Zhongkao</strong>, in terza media, smista fra licei e istituti professionali. <strong>Gaokao</strong>, all'ultimo anno, è l'unico criterio di ammissione all'università.
+</div>
+
+<!--
+"Questo è il dato più grosso che ho da mostrarvi sulla scuola. Ventiseimilaottocento studenti cinesi, dalla seconda media alla quinta superiore, seguiti per trenta mesi. Non un sondaggio: voti veri, tempi veri, esami a libro chiuso, esami di ammissione."
+
+"Nei compiti a casa va tutto benissimo: voti su del diciotto per cento, tempo giù del trenta."
+
+Pausa. "Agli esami, dove l'AI non ce l'hanno, i voti mensili scendono del venti per cento entro sei mesi. E sugli esami di ammissione, quelli che contano davvero, il calo arriva al diciotto e al ventiquattro per cento - ma si vede tutto solo dopo due anni."
+
+IL PUNTO, lento: "e adesso la parte che conta. La perdita non è distribuita: sta quasi tutta nell'ottanta per cento di studenti che DELEGANO, riconoscibili perché consegnano in pochissimo tempo con voti alti. Chi usa l'AI ma ci mette lo stesso tempo di prima non perde quasi niente."
+
+"Non è lo strumento. È cosa ci fai."
+
+Metodo, se te lo chiedono: difference-in-differences su adozione scaglionata. Le perdite sono più grandi nelle materie umanistiche, poi STEM, poi lingue; e più grandi per gli studenti più giovani, per quelli più bravi e per i maschi.
+-->
+
+---
+
+
+<!-- _footer: "Bastani et al., PNAS 2025 - «48% improvement in grades for GPT Base and 127% for GPT Tutor»" -->
+
+# AI without guardrails can harm learning
+
+<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 20px; max-width:80ch;">
+Circa <strong>mille studenti di matematica delle superiori</strong>, in Turchia. Stesso modello, due confezioni diverse, più un gruppo di controllo <strong>senza AI</strong>. Prima si esercitano, poi fanno l'esame senza.
+</div>
+
+<div style="margin-top:20px;">
+  <div style="display:flex; align-items:center; padding:12px 0; border-bottom:1px solid var(--b); font-size:0.56em;" class="mono dim">
+    <div style="flex:2;"></div><div style="flex:1.2; text-align:center;">VOTO NELLE SESSIONI DI PRATICA</div><div style="flex:1.2; text-align:center;">VOTO ALL'ESAME SENZA AI</div>
+  </div>
+  <div style="display:flex; align-items:center; padding:24px 0; border-bottom:1px solid var(--b);">
+    <div style="flex:2; font-size:0.76em;"><strong>GPT Base</strong><br><span class="dim" style="font-size:0.82em;">ChatGPT normale</span></div>
+    <div style="flex:1.2; text-align:center;"><span class="big rise">+48%</span><br><span class="dim" style="font-size:0.56em;">rispetto a chi non ha l'AI</span></div>
+    <div style="flex:1.2; text-align:center;"><span class="big fall">−17%</span><br><span class="dim" style="font-size:0.56em;"><strong>sotto</strong> chi non l'ha mai avuta</span></div>
+  </div>
+  <div style="display:flex; align-items:center; padding:24px 0;">
+    <div style="flex:2; font-size:0.76em;"><strong>GPT Tutor</strong><br><span class="dim" style="font-size:0.82em;">stesso modello, dà hint non risposte</span></div>
+    <div style="flex:1.2; text-align:center;"><span class="big rise">+127%</span></div>
+    <div style="flex:1.2; text-align:center;"><span style="font-size:0.9em; font-weight:800;">nessun danno</span></div>
+  </div>
+</div>
+
+<!--
+I NUMERI SONO VOTI, ed è testuale nel paper: «48% improvement in grades for GPT Base and 127% for GPT Tutor», «17% reduction in grades». Sono variazioni relative rispetto al gruppo di controllo, non punti percentuali.
+
+"Stesso modello. Stesso identico GPT-4. Cambia solo come è stato IMPACCHETTATO. Con i guardrail raddoppi l'apprendimento; senza, chi lo usa finisce SOTTO chi non l'ha mai avuto."
+
+"Ecco perché 'AI sì o no' è la domanda sbagliata. La domanda è: AI PROGETTATA COME. E quella è una decisione didattica, non tecnologica."
+-->
+
+---
+<!-- _footer: "Anthropic, How AI assistance impacts the formation of coding skills, gennaio 2026" -->
+
+# Imparare una libreria nuova
+
+<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 26px; max-width:80ch;">
+<strong>52 sviluppatori</strong>, per lo più junior. Stesso compito: imparare una libreria che non conoscono e implementare due funzionalità. Metà <strong>con l'AI</strong>, metà <strong>a mano</strong>. Alla fine, un quiz sui concetti appena usati.
+</div>
+
+<div style="display:flex; align-items:center; gap:0;">
+  <div class="fade r1" style="flex:1; padding-right:40px; border-right:1px solid var(--b); text-align:center;">
+    <div class="huge fall" style="font-size:3.4em;">50%</div>
+    <div class="mono" style="font-size:0.5em; margin-top:10px; letter-spacing:0.1em; color:var(--fall);">AL QUIZ, CHI HA USATO L'AI</div>
+  </div>
+  <div class="fade r3" style="flex:1; padding-left:44px; text-align:center;">
+    <div class="huge rise" style="font-size:3.4em;">67%</div>
+    <div class="mono" style="font-size:0.5em; margin-top:10px; letter-spacing:0.1em; color:var(--rise);">AL QUIZ, CHI HA FATTO A MANO</div>
+  </div>
+</div>
+
+<div class="fade r5" style="display:flex; gap:44px; margin-top:34px; padding-top:22px; border-top:1px solid var(--b); font-size:0.66em; line-height:1.5; color:var(--body);">
+  <div style="flex:1;"><strong>17 punti</strong> di differenza, quasi due voti. Il divario più grande è <strong>sulle domande di debugging</strong>.</div>
+  <div style="flex:1;">Sulla <strong>velocità</strong>, due minuti in meno con l'AI: differenza <strong>non significativa</strong>.</div>
+</div>
+
+<!--
+"Cinquantadue sviluppatori, per lo più junior. Gli danno una libreria che non conoscono - Trio, per la programmazione asincrona - e due funzionalità da implementare. Metà la fanno con l'assistente, metà a mano. Poi un quiz sui concetti che hanno appena usato."
+
+Pausa sui due numeri. "Hanno risparmiato due minuti e hanno capito due voti in meno."
+
+"E lo pubblica l'azienda che vende l'agente di coding."
+
+ATTENZIONE: non dire "diciassette per cento in meno". I punteggi grezzi sono 50 e 67: sono 17 PUNTI PERCENTUALI. Di' "diciassette punti" o "cinquanta contro sessantasette".
+
+Se ti chiedono i numeri: Cohen's d = 0,738, p = 0,01.
+-->
+
+---
+
+
+<!-- _footer: "Anthropic RCT, gennaio 2026 - pattern d'uso correlati al punteggio del quiz" -->
+
+# Insight
+
+<div style="font-size:0.74em; color:var(--body); line-height:1.5; margin:-2px 0 18px; max-width:80ch;">
+Modalità di uso dell'AI: gli stessi 52 sviluppatori, raggruppati per <strong>come</strong> l'hanno usata. Sei modi ricorrenti, due esiti opposti al quiz.
+</div>
+
+<div style="display:flex; gap:0; margin-top:12px;">
+  <div style="flex:1; padding:24px 28px; padding-left:0; border-right:1px solid var(--b);">
+    <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:18px;">
+      <span class="mono" style="font-size:0.58em; letter-spacing:0.06em; color:var(--fall);">SCORE SOTTO IL 40%</span>
+    </div>
+    <div style="font-size:0.72em; line-height:1.35;">
+      <div style="margin-bottom:14px;"><strong>Delega totale</strong><br><span class="dim" style="font-size:0.88em;">«fammelo tu»</span></div>
+      <div style="margin-bottom:14px;"><strong>Reliance progressiva</strong><br><span class="dim" style="font-size:0.88em;">iniziano chiedendo, finiscono delegando</span></div>
+      <div><strong>Debug iterativo</strong><br><span class="dim" style="font-size:0.88em;">«aggiusta» invece di «spiega»</span></div>
+    </div>
+  </div>
+  <div style="flex:1; padding:24px 28px; padding-left:40px; padding-right:0;">
+    <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:18px;">
+      <span class="mono" style="font-size:0.58em; letter-spacing:0.06em; color:var(--rise);">SCORE SOPRA IL 65%</span>
+    </div>
+    <div style="font-size:0.72em; line-height:1.35;">
+      <div style="margin-bottom:14px;"><strong>Generano, poi chiedono spiegazioni</strong></div>
+      <div style="margin-bottom:14px;"><strong>Codice e spiegazione insieme</strong></div>
+      <div><strong>Conceptual inquiry</strong><br><span class="dim" style="font-size:0.88em;">solo domande concettuali, errori risolti da solo</span></div>
+    </div>
+  </div>
+</div>
+
+<div class="ask" style="text-align:center; margin-top:22px; font-size:0.88em;">
+  Il gruppo «conceptual inquiry» era anche il secondo più veloce in assoluto.
+</div>
+
+<!--
+"Questo distrugge l'alibi del trade-off. Non è 'o vai veloce o impari'. Chi usa l'AI per CAPIRE va veloce E impara. Chi la usa per DELEGARE va uguale e non impara niente."
+
+"E allora la domanda non è più 'AI sì o no'. È: quale di queste sei colonne stiamo insegnando? Perché se non insegniamo niente, il default è la colonna rossa."
+
+MOMENTO INTERATTIVO: "Alzate la mano: in quale di queste sei vi riconoscete stamattina?"
+-->
+
+---
+<!-- _footer: '' -->
+
+<!-- _class: centrata -->
+
+<div style="display:flex; align-items:center; justify-content:center; height:430px; text-align:center;">
+  <h1 class="fade fade1" style="font-size:3.1em; line-height:1.06; margin:0;">L'<span class="fall">illusione</span> della competenza</h1>
+</div>
+
+<!--
+Non dire niente per due secondi. La frase deve stare da sola.
+
+"Questa cosa ha un nome, e ve l'ho già mostrata tre volte senza chiamarla così."
+
+"Nello studio cinese: il voto sui compiti dice che hai imparato, l'esame dice di no. Nel PNAS: durante la pratica vai meglio di tutti, all'esame finisci sotto chi non l'ha mai avuta. Nell'RCT di Anthropic: risparmi due minuti e capisci due voti in meno."
+
+"Il segnale che guardiamo tutti - il lavoro consegnato - dice il contrario di quello che è successo davvero."
+
+LA FORMULA È DI PRATHER e colleghi, ICER 2024: studio qualitativo su 21 principianti osservati con eye-tracking. Chi arrancava finiva convinto di aver fatto meglio di quanto avesse fatto, con «dissonanza cognitiva sulla propria capacità di risolvere problemi».
+
+QUI ABBASSA LA VOCE, è la parte personale: "io lavoro con adulti in riqualificazione. Gente di quarant'anni che cambia vita. Quelli sono, quasi per definizione, il gruppo a bassa autoefficacia. Sono esattamente quelli che l'AI SEMBRA aiutare e sta lasciando indietro."
 -->
 
 ---
@@ -1879,10 +1866,10 @@ def calcola_totale(ordine):
     totale = (subtotale + spedizione) * (1 + IVA)
 ```
 
-<div class="ask" style="margin-top:18px; font-size:0.88em;">Il marketing chiede: la soglia spedizione deve valere sul carrello <em style="font-style:italic;">prima</em> degli sconti, e i punti non devono maturare sull'IVA. <strong style="color:var(--a);">Dove mettete le mani?</strong></div>
-
 <!--
 Lascia leggere. È pulito, funziona, ha i commenti numerati. Sembra a posto.
+
+LA RICHIESTA LA FAI A VOCE, non è in slide: "il marketing chiede due cose. Primo: la soglia della spedizione gratis deve valere sul carrello PRIMA degli sconti. Secondo: i punti non devono maturare sull'IVA. Dove mettete le mani?"
 
 "Non vi ho chiesto di trovare un bug. Vi ho chiesto DOVE METTETE LE MANI."
 
