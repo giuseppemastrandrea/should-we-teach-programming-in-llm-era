@@ -32,7 +32,7 @@ style: |
   .fade1 { animation-delay: .25s; }
   .fade2 { animation-delay: 1.1s; }
   .r1 { animation-delay: .20s; } .r2 { animation-delay: .34s; } .r3 { animation-delay: .48s; }
-  .r4 { animation-delay: .62s; } .r5 { animation-delay: .76s; } .r6 { animation-delay: .90s; }
+  .r4 { animation-delay: .62s; } .r5 { animation-delay: .76s; } .r6 { animation-delay: 1.15s; }
 ---
 
 <!-- _class: lead -->
@@ -82,32 +82,38 @@ Chiudi con: "Non ho una risposta comoda. Ho dei dati."
 ---
 # Di cosa parliamo
 
-<div style="margin-top:26px; font-size:0.78em;">
-  <div class="fade r1" style="display:flex; align-items:baseline; gap:26px; padding:13px 0; border-bottom:1px solid var(--b);">
+<div style="display:flex; gap:56px; align-items:flex-start; margin-top:22px;">
+<div style="flex:0 0 720px; font-size:0.78em;">
+  <div class="fade r1" style="display:flex; align-items:baseline; gap:22px; padding:13px 0; border-bottom:1px solid var(--b);">
     <div class="mono amber" style="flex:0 0 60px; font-size:0.72em;">01</div>
-    <div style="flex:0 0 330px;"><strong>Cosa dicono i dati</strong></div>
+    <div style="flex:0 0 290px;"><strong>Cosa dicono i dati</strong></div>
     <div style="flex:1; color:var(--body); font-size:0.88em;">chi non viene più assunto, e dove</div>
   </div>
-  <div class="fade r2" style="display:flex; align-items:baseline; gap:26px; padding:13px 0; border-bottom:1px solid var(--b);">
+  <div class="fade r2" style="display:flex; align-items:baseline; gap:22px; padding:13px 0; border-bottom:1px solid var(--b);">
     <div class="mono amber" style="flex:0 0 60px; font-size:0.72em;">02</div>
-    <div style="flex:0 0 330px;"><strong>Cosa fa davvero la macchina</strong></div>
+    <div style="flex:0 0 290px;"><strong>Cosa fa davvero la macchina</strong></div>
     <div style="flex:1; color:var(--body); font-size:0.88em;">produrre non è più il problema</div>
   </div>
-  <div class="fade r3" style="display:flex; align-items:baseline; gap:26px; padding:13px 0; border-bottom:1px solid var(--b);">
+  <div class="fade r3" style="display:flex; align-items:baseline; gap:22px; padding:13px 0; border-bottom:1px solid var(--b);">
     <div class="mono amber" style="flex:0 0 60px; font-size:0.72em;">03</div>
-    <div style="flex:0 0 330px;"><strong>Cosa resta da insegnare</strong></div>
+    <div style="flex:0 0 290px;"><strong>Cosa resta da insegnare</strong></div>
     <div style="flex:1; color:var(--body); font-size:0.88em;">le competenze che non scadono</div>
   </div>
-  <div class="fade r4" style="display:flex; align-items:baseline; gap:26px; padding:13px 0; border-bottom:1px solid var(--b);">
+  <div class="fade r4" style="display:flex; align-items:baseline; gap:22px; padding:13px 0; border-bottom:1px solid var(--b);">
     <div class="mono amber" style="flex:0 0 60px; font-size:0.72em;">04</div>
-    <div style="flex:0 0 330px;"><strong>L'AI in aula: sì o no?</strong></div>
+    <div style="flex:0 0 290px;"><strong>L'AI in aula: sì o no?</strong></div>
     <div style="flex:1; color:var(--body); font-size:0.88em;">quattro studi, una domanda sbagliata</div>
   </div>
-  <div class="fade r5" style="display:flex; align-items:baseline; gap:26px; padding:13px 0;">
+  <div class="fade r5" style="display:flex; align-items:baseline; gap:22px; padding:13px 0;">
     <div class="mono amber" style="flex:0 0 60px; font-size:0.72em;">05</div>
-    <div style="flex:0 0 330px;"><strong>Nuove idee per insegnare</strong></div>
+    <div style="flex:0 0 290px;"><strong>Nuove idee per insegnare</strong></div>
     <div style="flex:1; color:var(--body); font-size:0.88em;">cinque idee per insegnare il coding</div>
   </div>
+</div>
+<div class="fade r6" style="flex:1; text-align:center;">
+  <img src="./assets/qr-slides.svg" style="width:240px; display:block; margin:0 auto 12px;" alt="QR code con il link alle slide e alle fonti" />
+  <div class="mono dim" style="font-size:0.46em; line-height:1.5;">Repo e slide</div>
+</div>
 </div>
 
 <!--
@@ -2034,7 +2040,7 @@ Le munizioni che hai già pronte, se servono: il legame Anthropic-Stanford sull'
 
 # Grazie
 
-<div style="width:56px; height:2px; background:var(--a); margin:26px auto 28px;"></div>
+<div style="width:56px; height:2px; background:var(--a); margin:22px auto 22px;"></div>
 
 <div class="mono amber" style="font-size:0.6em;">
   Train you must. Not with a saber - with knowledge.
