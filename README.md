@@ -53,19 +53,3 @@ cd talk
 | `ricerca-iniziale.md` | La prima ricognizione, schematica. Superata da `contesto.md`, ma contiene la tabella dati-per-slide. |
 
 Ogni file ha anche il `.pdf` accanto.
-
----
-
-## `archivio/` - superato
-
-`deck-html/` è la **prima versione delle slide**, scritta a mano in HTML prima di passare a Marp. Funziona ancora (un solo file, font incorporati, va senza rete) ma non è più quella mantenuta: le correzioni fatte dopo - numerazione delle parti, a capi, temi - ci sono solo nella versione Marp.
-
-L'ho tenuta invece di cancellarla nel caso ti serva qualcosa da lì. Se non ti serve, si può buttare.
-
----
-
-## Le due cose da sapere prima del 26
-
-**I numeri sono verificati sulle fonti primarie** (21 settembre). Dove un dato non reggeva, è stato tolto - Apiiro, i numeri Randstad, il «+75%» di GitClear. Dove reggeva ma andava detto con precisione, la slide porta la fonte nel footer e la nota ti ricorda come pronunciarlo.
-
-**Marp taglia in silenzio.** Se modifichi una slide e sfora, non te lo dice: esporta e basta. Dopo ogni modifica, riesporta il PDF e guardalo. Le due trappole che fanno perdere ore (attributi `style` rimossi, righe vuote dentro `<div>` e `<svg>`) sono spiegate in `talk/README.md`.
