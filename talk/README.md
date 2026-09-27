@@ -166,3 +166,24 @@ Stanno tutti in **`../ricerca/`**:
 | `contesto.md` | Il documento discorsivo con tutte le evidenze |
 | `audit-fonti.md` | Il registro della verifica: cosa è stato corretto e perché |
 | `ricerca-iniziale.md` | La prima ricognizione schematica, con la tabella dati-per-slide |
+
+---
+
+## Rigenerare il PDF
+
+```bash
+cd talk
+./node_modules/.bin/marp slides.md --pdf -o slides-carta.pdf --no-stdin
+# poi, per comprimerlo da ~22 MB a ~3 MB senza perdita visibile:
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dPDFSETTINGS=/printer \
+   -dDetectDuplicateImages=true -dNOPAUSE -dQUIET -dBATCH \
+   -sOutputFile=slides-compresso.pdf slides-carta.pdf && mv slides-compresso.pdf slides-carta.pdf
+```
+
+## Materiali di terzi
+
+Il deck cita e riproduce materiale altrui a scopo didattico: figure dai paper
+citati, ritratti sotto licenza Creative Commons (la foto di Leone XIV è
+CC BY-SA 4.0 di Edgar Beltrán, The Pillar; quella di Andrej Karpathy è
+CC BY 3.0 di Gladwin Analytics), un'icona da pngall e un breve estratto video.
+Ogni slide porta la fonte nel footer.
